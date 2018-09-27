@@ -19,6 +19,7 @@
     <body>
         <div class="container-fluid __home">
             <div class="row">
+                
                 <div class="col-md-8">
                     <div class="jumbotron">
                             <table data-toggle="table" id="table"
@@ -94,7 +95,10 @@
                         </div>
                         </form>
                     </div>
-                </div>    
+                </div> 
+                <div class="col-md-12">
+                    <a href="https://github.com/djdantras/testXimil">repositorio</a>
+                </div>
             </div>
         </div>
         
